@@ -33,5 +33,7 @@ Consider supporting the project to see it grow bug-free.
 
 ### User-Management
 
+### Types & Schemas
+
 ### Scaffolding
 

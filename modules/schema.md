@@ -1,2 +1,2 @@
-# Schema
+# @biota/schema
 
