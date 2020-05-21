@@ -2,7 +2,7 @@
 description: A database framework fully hosted in FaunaDB
 ---
 
-# Introduction to Biota Framework
+# Introduction
 
 
 

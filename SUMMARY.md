@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction to Biota Framework](README.md)
+* [Introduction](README.md)
 
 ## quickstart guides
 
