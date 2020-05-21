@@ -10,9 +10,11 @@ description: A database framework fully hosted in FaunaDB
 
 Biota is a framework that can scaffolds your app database within [FaunaDB ](https://fauna.com/)in 30s. It's fully hosted by Fauna in [User-Defined Functions](https://docs.fauna.com/fauna/current/api/fql/functions) \(also called **UDFs**\) which you get when you [install any of biota's modules](quickstart-guides/host-biota-in-fauna.md).
 
-\(This project isn't from **FaunaDB's team** also they encourage it.\)
+I would recommend starting with[ some tutorials](quickstart-guides/tutorials/).
 
-You can go have a look a[ some tutorials](quickstart-guides/tutorials/) to start with.
+{% hint style="info" %}
+Biota is **not** affiliated with **FaunaDB**'s company. The project is welcomed by the team though.
+{% endhint %}
 
 {% hint style="success" %}
 Biota is **free** to use under MIT licensing.  
