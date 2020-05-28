@@ -5,8 +5,7 @@
 ## quickstart guides
 
 * [Host biota in Fauna](quickstart-guides/host-biota-in-fauna.md)
-* [Tutorials](quickstart-guides/tutorials/README.md)
-  * [Scaffolding a note app](quickstart-guides/tutorials/scaffolding-a-note-app.md)
+* [Tutorials](quickstart-guides/tutorials.md)
 
 ## modules
 
