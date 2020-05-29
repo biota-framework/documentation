@@ -14,6 +14,8 @@ _Right now this documentation is pretty empty. Content is coming!_
 
 In the meantime you can go check out the [**sandbox!**](https://sandbox.biota.rocks)\*\*\*\*
 
+\*\*\*\*
+
 {% hint style="info" %}
 Biota is **not** affiliated with **FaunaDB** itself. The project is welcomed by the team though.
 {% endhint %}
